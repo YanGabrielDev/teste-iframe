@@ -1,0 +1,6 @@
+span.hello-vivo{
+  font-size: 38px;
+  font-family: 'Roboto';
+  font-weight: 300;
+  color: var(--vivo-color)
+}
